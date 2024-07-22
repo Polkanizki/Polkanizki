@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+TODO List:
+- 🌱 I’m currently learning to use Github
+
+♂️ 23 y.o.
+👨‍🎓 Computer Science Student
+
+
 <!--
 **Polkanizki/Polkanizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
