@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 TODO List:
-- 🌱 I’m currently learning to use Github
+- [ ] 🌱 I’m currently learning to use Github
 
 ♂️ 23 y.o.
 👨‍🎓 Computer Science Student
