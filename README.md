@@ -4,10 +4,6 @@
 
 👨‍🎓 Computer Science Student
 
-TODO List:
-- [ ] 🌱 I’m currently learning to use Github
-- [x] ⏫ Upload new code repository
-
 <!--
 **Polkanizki/Polkanizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
