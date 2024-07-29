@@ -8,6 +8,9 @@
 <a href="https://github.com/Polkanizki?tab=repositories">
   <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" />
 </a>
+<a href="https://github.com/Polkanizki?tab=followers">
+  <img src="https://img.shields.io/github/followers/polkanizki?style=for-the-badge" />
+</a>
 
 ## My most used languages
 
