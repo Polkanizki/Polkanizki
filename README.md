@@ -15,6 +15,10 @@
 <img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 </br>
 
+## Actually I'm working on:
+
+[![Actual Repo](https://github-readme-stats.vercel.app/api/pin/?username=polkanizki&repo=collectoradventure)](https://github.com/polkanizki/collectoradventure)
+
 ## Stats
 
 ![Cesario's GitHub stats](https://github-readme-stats.vercel.app/api?username=polkanizki&show_icons=true&theme=codeSTACKr)
