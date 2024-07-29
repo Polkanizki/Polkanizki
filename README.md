@@ -21,7 +21,7 @@
 
 ## Actually I'm working on:
 
-[![Actual Repo](https://github-readme-stats.vercel.app/api/pin/?username=polkanizki&repo=collectoradventure)](https://github.com/polkanizki/collectoradventure)
+[![Actual Repo](https://github-readme-stats.vercel.app/api/pin/?username=polkanizki&repo=click-and-repair_webtec_project)](https://github.com/polkanizki/click-and-repair_webtec_project)
 
 ## Stats
 
