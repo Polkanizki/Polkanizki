@@ -5,6 +5,11 @@
 - 👨‍🎓 Computer Science Student
 - :it: Campania
 
+## My most used languages
+
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+
 <!--
 **Polkanizki/Polkanizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
