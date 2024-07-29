@@ -5,6 +5,10 @@
 - 👨‍🎓 Computer Science Student
 - :it: Campania
 
+<a href="https://github.com/Polkanizki?tab=repositories">
+  <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" />
+</a>
+
 ## My most used languages
 
 <img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
