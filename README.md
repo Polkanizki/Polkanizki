@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/Polkanizki?tab=followers" >
-  <img src="https://img.shields.io/github/followers/polkanizki?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/polkanizki?logo=user-plus&style=for-the-badge" />
 </a>
 
 ## 💻 Most used languages
