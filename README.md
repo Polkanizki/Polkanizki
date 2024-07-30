@@ -22,9 +22,9 @@
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </br>
 
+<!--
 ## ⛏️ Actually I'm working on:
-
-[![Actual Repo](https://github-readme-stats.vercel.app/api/pin/?username=polkanizki&repo=click-and-repair_webtec_project)](https://github.com/polkanizki/click-and-repair_webtec_project)
+-->
 
 ## 📊 Stats
 
