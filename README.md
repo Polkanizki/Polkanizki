@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/Polkanizki?tab=followers" >
-  <img src="https://custom-icon-badges.demolab.com/github/followers/polkanizki?logo=person-add-24&style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/polkanizki?logo=person-add&style=for-the-badge" />
 </a>
 
 ## 💻 Most used languages
