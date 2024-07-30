@@ -1,4 +1,4 @@
-## Hi there 👋
+# ⚡Polkanizki
 
 ♂️ 23 y.o.
 
@@ -13,17 +13,17 @@
   <img src="https://img.shields.io/github/followers/polkanizki?style=for-the-badge" />
 </a>
 
-## My most used languages
+## 💻 My most used languages
 
 <img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </br>
 
-## Actually I'm working on:
+## ⛏️ Actually I'm working on:
 
 [![Actual Repo](https://github-readme-stats.vercel.app/api/pin/?username=polkanizki&repo=click-and-repair_webtec_project)](https://github.com/polkanizki/click-and-repair_webtec_project)
 
-## Stats
+## 📊 Stats
 
 ![Cesario's GitHub stats](https://github-readme-stats.vercel.app/api?username=polkanizki&show_icons=true&theme=codeSTACKr)
 
