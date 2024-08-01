@@ -15,8 +15,8 @@
 
 ## 🗨️ Contact me on
 
-<a href="https://google.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/Personal%20Server?style=for-the-badge&logo=telegram" />
+<a href="https://github.com/Polkanizki?tab=repositories" >
+  <img src="https://custom-icon-badges.demolab.com/badge/-Personal%20Server-blue?style=for-the-badge&logoColor=white&logo=discord" />
 </a>
 
 ## 💻 Most used languages
