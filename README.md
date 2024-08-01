@@ -16,7 +16,7 @@
 ## 🗨️ Contact me on
 
 <a href="https://google.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/Personal%20Server?style=for-the-badge&logo=discord" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Personal%20Server?style=for-the-badge&logo=telegram" />
 </a>
 
 ## 💻 Most used languages
