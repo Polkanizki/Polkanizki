@@ -16,7 +16,7 @@
 ## 🗨️ Contact me on
 
 <a href="">
-  <img src="https://img.shields.io/badge/Personal%20Server?style=for-the-badge&logo=discord" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Personal%20Server?style=for-the-badge&logo=discord" />
 </a>
 
 ## 💻 Most used languages
