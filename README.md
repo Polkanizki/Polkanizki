@@ -15,7 +15,7 @@
 
 ## 🗨️ Contact me on
 
-<a href="https://github.com/Polkanizki?tab=repositories" >
+<a href="https://t.me/Polkanizki" >
   <img src="https://custom-icon-badges.demolab.com/badge/-Telegram-blue?style=for-the-badge&logoColor=white&logo=telegram" />
 </a>
 
