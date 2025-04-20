@@ -1,7 +1,5 @@
 # ⚡Polkanizki
 
-♂️ 23 y.o.
-
 - 👨‍🎓 Computer Science Student
 - :it: Campania
 
